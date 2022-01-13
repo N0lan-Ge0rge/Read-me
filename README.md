@@ -1,5 +1,5 @@
 #Read me
-##George  Nolan
+##George Nolan
 
 
 
